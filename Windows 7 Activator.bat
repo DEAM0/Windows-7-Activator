@@ -67,3 +67,4 @@ Pause
 goto END
 
 :END
+@echo on
