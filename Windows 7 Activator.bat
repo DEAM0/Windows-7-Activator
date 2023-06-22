@@ -38,6 +38,7 @@ cscript //nologo c:\windows\system32\slmgr.vbs /ipk 65THD-F8XX6-YG69F-9M66D-MKST
 echo Thanks you using Windows 7 Activator. More https://github.com/rukit/
 echo Completed ! Please Restart Your Computer!
 Pause
+goto END
 
 :WIN7H
 cls
@@ -49,6 +50,8 @@ echo Activating Windows 7 Home Premium
 cscript //nologo c:\windows\system32\slmgr.vbs /ipk AXBS6-LR9OV-MEYF5-RMJB9-UCRT2P >nul
 echo Thanks you using Windows 7 Activator. More https://github.com/rukit/
 echo Completed ! Please Restart Your Computer!
+Pause
+goto END
 
 :WIN7P
 cls
@@ -60,3 +63,8 @@ echo Activating Windows 7 Professional
 cscript //nologo c:\windows\system32\slmgr.vbs /ipk 6JFPB-DMWMM-6J299-3GF8Y-CXP87 >nul
 echo Thanks you using Windows 7 Activator. More https://github.com/rukit/
 echo Completed ! Please Restart Your Computer!
+Pause
+goto END
+
+:END
+@echo on
