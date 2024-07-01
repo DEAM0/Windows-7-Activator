@@ -30,11 +30,9 @@ echo # Activating Windows
 echo # Please Wait...
 echo #######################
 echo Activating Windows 7 Ultimate
-cscript //nologo c:\windows\system32\slmgr.vbs /ipk BCD25-QLO9D-YZSXR-NNNCD-XXZ9Z >nul
-cscript //nologo c:\windows\system32\slmgr.vbs /ipk 36NKG-6YHUY-Z89TY-V7DCV-PKAMA >nul
-cscript //nologo c:\windows\system32\slmgr.vbs /ipk Q3VMJ-TMJ3M-99RF9-CVPJ3-Q7VF3 >nul
-cscript //nologo c:\windows\system32\slmgr.vbs /ipk NMZX7-P3ZCD-P58CV-Q2H7C-PKPK1 >nul
-cscript //nologo c:\windows\system32\slmgr.vbs /ipk GMY2P-RBX7P-TQGX8-C8B9B-BGXFF >nul
+cscript //nologo c:\windows\system32\slmgr.vbs /ipk H4Q8J-YXPPP-6X6GC-CRKM8-H9VPB >nul
+cscript //nologo c:\windows\system32\slmgr.vbs /ipk FG9VC-TY47G-BKVWC-R4T8P-Y86J9 >nul
+cscript //nologo c:\windows\system32\slmgr.vbs /ipk QYM8MJ-JKTGM-8GFQ6-X499R-FT7V7 >nul
 echo Thanks you using Windows 7 Activator. More https://github.com/DEAM0
 echo Completed ! Please Restart Your Computer!
 Pause
@@ -47,7 +45,7 @@ echo # Activating Windows
 echo # Please Wait...
 echo #######################
 echo Activating Windows 7 Home Premium
-cscript //nologo c:\windows\system32\slmgr.vbs /ipk AXBS6-LR9OV-MEYF5-RMJB9-UCRT2P >nul
+cscript //nologo c:\windows\system32\slmgr.vbs /ipk 7X6JT-3FVCK-CBG9K-VQY8W-H64Y8 >nul
 echo Thanks you using Windows 7 Activator. More https://github.com/DEAM0
 echo Completed ! Please Restart Your Computer!
 Pause
@@ -60,7 +58,7 @@ echo # Activating Windows
 echo # Please Wait...
 echo #######################
 echo Activating Windows 7 Professional
-cscript //nologo c:\windows\system32\slmgr.vbs /ipk 6JFPB-DMWMM-6J299-3GF8Y-CXP87 >nul
+cscript //nologo c:\windows\system32\slmgr.vbs /ipk H3P6D-CH2FV-H48D3-W6KBQ-39Q4J >nul
 echo Thanks you using Windows 7 Activator. More https://github.com/DEAM0
 echo Completed ! Please Restart Your Computer!
 Pause
