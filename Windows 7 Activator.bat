@@ -20,8 +20,8 @@ echo 3 ) Windows Home Premium
 SET /P M=Type : 
 
 IF %M%==1 GOTO WIN7U
-IF %M%==1 GOTO WIN7P
-IF %M%==1 GOTO WIN7H
+IF %M%==2 GOTO WIN7P
+IF %M%==3 GOTO WIN7H
 
 :WIN7U
 cls
