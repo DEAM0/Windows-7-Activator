@@ -32,7 +32,7 @@ echo #######################
 echo Activating Windows 7 Ultimate
 cscript //nologo c:\windows\system32\slmgr.vbs /ipk H4Q8J-YXPPP-6X6GC-CRKM8-H9VPB >nul
 cscript //nologo c:\windows\system32\slmgr.vbs /ipk FG9VC-TY47G-BKVWC-R4T8P-Y86J9 >nul
-cscript //nologo c:\windows\system32\slmgr.vbs /ipk QYM8MJ-JKTGM-8GFQ6-X499R-FT7V7 >nul
+cscript //nologo c:\windows\system32\slmgr.vbs /ipk YM8MJ-JKTGM-8GFQ6-X499R-FT7V7 >nul
 echo Thanks you using Windows 7 Activator. More https://github.com/DEAM0
 echo Completed ! Please Restart Your Computer!
 Pause
