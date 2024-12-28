@@ -4,7 +4,7 @@ echo ---------------------------
 echo - Created by DEAM0
 echo - Windows 7 Activator
 echo - More : https://github.com/DEAM0
-echo - (C) Copyright 2019-2024 All Rights Revesled
+echo - (C) Copyright 2019-2024 All Rights Reserved
 echo - This script may not be published anywhere else on the official site, it may not be overwritten.
 echo - Please run this program as Administrator!
 echo ----------------------------
